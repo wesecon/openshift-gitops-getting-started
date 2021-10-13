@@ -5,6 +5,7 @@ metadata:
     app: spring-petclinic
   name: spring-petclinic
 spec:
+  host: petshop.apps.cluster-a6d8.a6d8.sandbox210.opentlc.com
   port:
     targetPort: 8080-tcp
   to:
